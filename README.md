@@ -7,14 +7,13 @@
 
 Автоматическое программирование - сила.
 
-Разработано под Python 3.13, библиотеки: tkinter, pillow, numpy, matplotlib, tkinter, json
+Разработано под Python 3.13, библиотеки: tkinter, pillow, numpy, matplotlib, tkinter, json.
 
 ## Скрины
 
-![dronetrace_screen_1.png]
+![Начальный экран](https://github.com/magorokhoov/AgrodroneTrace/blob/main/dronetrace_screen_1.png)
 
-![dronetrace_screen_2.png]
-
+![Подгруженная карта](https://github.com/magorokhoov/AgrodroneTrace/blob/main/dronetrace_screen_2.png)
 
 ## ТЗ было такое
 
